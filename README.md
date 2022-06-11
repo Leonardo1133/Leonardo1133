@@ -1,5 +1,7 @@
 ## Hola 👋
-Que tal, mi nombre es Leonardo, soy de Argentina y soy Machine Learning Engineer.
+Que tal, mi nombre es Leonardo, soy de Argentina y soy Machine Learning Engineer. Soy una persona curiosa en general, ademas de la programacion, me gusta la electronica, la Física (Mecanica Cuantica y Astrofisica) y la Matemática. Tambien me gusta la actividad fisica, trekking y la bici. 
+
+Me tomo un rato todos los dias para aprender o consolidar lo que aprendo en el dia a dia. Actualmente junto dos de mis pasiones: MLOps aplicado a la Actividad Fisica con la pulsera deportiva Garmin (Aca Abajo esta el repo en construccion: "Garmin_MLOps").  
 
 ## Skills
 - Actualmente trabajando como ML Engineer usando Practicas MLOps y tecnologías Cloud AWS como: Sagemaker Studio, Athena, PySpark, Lambda, S3, CodeCommit, EventBridge, CloudWatch, SSM Parameter, Sagemaker Pipeline, etc.
