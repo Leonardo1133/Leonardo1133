@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hola 👋
+Que tal, mi nombre es Leonardo, soy de Argentina y soy Machine Learning Engineer.
 
+## Skills
+- Actualmente trabajando como ML Engineer usando Practicas MLOps y tecnologías Cloud AWS como: Sagemaker Studio, Athena, PySpark, Lambda, S3, CodeCommit, EventBridge, CloudWatch, SSM Parameter, Sagemaker Pipeline, etc.
+
+## Contacto
+Linkedin: https://www.linkedin.com/in/leonardooscardavila/
 <!--
 **Leonardo1133/Leonardo1133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
