@@ -1,5 +1,5 @@
 ## hello 👋, i'm Leo 💻
-Soy de Argentina y soy Machine Learning Engineer. Actualmente trabajando como ML Engineer usando prácticas MLOps y tecnologías Cloud en AWS. 
+Soy de Argentina y soy Machine Learning Engineer. Actualmente trabajando como ML Engineer usando prácticas MLOps y tecnologías Cloud AWS. 
  
 Soy una persona curiosa en general. Además de la programación, me gusta la Electrónica, la Física (Mecánica Cuántica) y la Matemática. También me gusta la actividad física, trekking y la bici 🚴. 
 
