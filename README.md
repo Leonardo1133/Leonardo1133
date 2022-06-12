@@ -3,7 +3,7 @@ Soy de Argentina y soy Machine Learning Engineer. Actualmente trabajando como ML
  
 Soy una persona curiosa en general, ademas de la programacion, me gusta la Electronica, la Física (Mecanica Cuantica y Astrofisica) y la Matemática. Tambien me gusta la actividad fisica, trekking y la bici 🚴. 
 
-Me tomo un rato todos los dias (fuera del horario laboral habitual) para aprender o consolidar lo que aprendo en el dia a dia. Actualmente estoy haciendo un proyecto donde junto dos de mis pasiones: MLOps con un modelo de ML aplicado a la Actividad Fisica utilizando los datos de mi pulsera deportiva Garmin (Aca Abajo esta el repo en construccion: "Garmin_MLOps").  
+Me tomo un rato todos los dias (fuera del horario laboral habitual) para aprender o consolidar lo que aprendo en el dia a dia. Actualmente estoy haciendo un proyecto donde junto dos de mis pasiones: MLOps con un modelo de ML aplicado a la Actividad Fisica utilizando los datos de mi pulsera deportiva Garmin (Aca la referencia al repo en construccion: [Garmin_MLOps](https://github.com/Leonardo1133/Garmin_MLOps)).  
 
 ## Skills
 - SageMaker_Studio, Athena, PySpark, Lambda, S3, CodeCommit, EventBridge, CloudWatch, SSM_Parameter, SageMaker_Pipeline, etc.
