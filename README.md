@@ -1,18 +1,23 @@
 ## hello 👋, i'm Leo 💻
-Soy de Argentina y soy Machine Learning Engineer. Actualmente trabajando como ML Engineer usando Practicas MLOps y tecnologías Cloud en AWS. 
+Soy de Argentina y soy Machine Learning Engineer. Actualmente trabajando como ML Engineer usando prácticas MLOps y tecnologías Cloud en AWS. 
  
-Soy una persona curiosa en general, ademas de la programacion, me gusta la Electronica, la Física (Mecanica Cuantica y Astrofisica) y la Matemática. Tambien me gusta la actividad fisica, trekking y la bici 🚴. 
+Soy una persona curiosa en general. Además de la programación, me gusta la Electrónica, la Física (Mecánica Cuántica) y la Matemática. También me gusta la actividad física, trekking y la bici 🚴. 
 
-Me tomo un rato todos los dias (fuera del horario laboral habitual) para aprender o consolidar lo que aprendo en el dia a dia. Actualmente estoy haciendo un proyecto donde junto dos de mis pasiones: MLOps con un modelo de ML aplicado a la Actividad Fisica utilizando los datos de mi pulsera deportiva Garmin (Aca la referencia al repo en construccion: [Garmin_MLOps](https://github.com/Leonardo1133/Garmin_MLOps)).  
+Me tomo un rato todos los días (fuera del horario laboral habitual) para aprender o consolidar lo que aprendo en el dia a dia. Actualmente estoy haciendo un proyecto donde junto dos de mis pasiones: MLOps con un modelo de ML aplicado a la Actividad Física utilizando los datos de mi pulsera deportiva Garmin (Acá la referencia al repo en construccion: [Garmin_MLOps](https://github.com/Leonardo1133/Garmin_MLOps)).  
 
 ## Skills
 - SageMaker_Studio, Athena, PySpark, Lambda, S3, CodeCommit, EventBridge, CloudWatch, SSM_Parameter, SageMaker_Pipeline, etc.
 - En mi día a día uso tecnologías como: SQL, Python, Pandas, Numpy, SK-Learn, Git, Bash, Linux, Docker, etc.
-- Realice mi tesis de grado en Filtrado de imágenes con Machine Learning en matlab. Participe en Mercadolibre de un proyecto de Machine Learning para Prevención de Fraude.
+- Realice mi tesis de grado en Filtrado de imágenes con Machine Learning en matlab. Participé en Mercadolibre de un proyecto de Machine Learning para Prevención de Fraude.
 
 ## You can find me:
 - Linkedin: https://www.linkedin.com/in/leonardooscardavila/
 - twitter: https://twitter.com/leodavila1133
+
+
+
+
+
 
 
 
