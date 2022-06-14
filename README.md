@@ -1,4 +1,5 @@
-![machine-learning-technology-word-concepts-2749076](https://user-images.githubusercontent.com/42939877/173468243-aaa86d3c-14c8-432c-b5ed-cb9af18348f9.jpg)
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/42939877/173469177-f0e9421e-804d-4688-9dc7-e4c905212442.png)
+
 
 
 
