@@ -1,5 +1,5 @@
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/42939877/173469177-f0e9421e-804d-4688-9dc7-e4c905212442.png)
 
+![Captura de pantalla de 2022-06-13 21-33-30](https://user-images.githubusercontent.com/42939877/173469342-cc15d93f-9927-4ab9-85a0-6a9f50854df3.png)
 
 
 
