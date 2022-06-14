@@ -1,5 +1,5 @@
+![matematicas-una-ciencia](https://user-images.githubusercontent.com/42939877/173470040-42685a6a-442a-44e5-9d4f-11001ce40e73.jpg)
 
-![Captura de pantalla de 2022-06-13 21-33-30](https://user-images.githubusercontent.com/42939877/173469342-cc15d93f-9927-4ab9-85a0-6a9f50854df3.png)
 
 
 
