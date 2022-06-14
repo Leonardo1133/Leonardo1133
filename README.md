@@ -1,3 +1,4 @@
+https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teaser/deep-learning-vs-machine-learning-t.jpg
 ## hello 👋, i'm Leo 💻
 Soy de Argentina y soy Machine Learning Engineer. Actualmente trabajando como ML Engineer usando prácticas MLOps y tecnologías Cloud AWS. 
  
