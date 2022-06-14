@@ -1,4 +1,6 @@
-![deep-learning-vs-machine-learning-t](https://user-images.githubusercontent.com/42939877/173467808-6980df23-50ed-41e9-805e-d1e46751c118.jpg)
+
+![94c8e1dcdc496cf2c33a06ff50b38c07](https://user-images.githubusercontent.com/42939877/173468170-0de19cc1-85af-4994-bd09-4cd65f1e71c3.jpg)
+
 
 ## hello 👋, i'm Leo 💻
 Soy de Argentina y soy Machine Learning Engineer. Actualmente trabajando como ML Engineer usando prácticas MLOps y tecnologías Cloud AWS. 
