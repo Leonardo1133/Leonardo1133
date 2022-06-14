@@ -1,5 +1,5 @@
+![machine-learning-technology-word-concepts-2749076](https://user-images.githubusercontent.com/42939877/173468243-aaa86d3c-14c8-432c-b5ed-cb9af18348f9.jpg)
 
-![94c8e1dcdc496cf2c33a06ff50b38c07](https://user-images.githubusercontent.com/42939877/173468170-0de19cc1-85af-4994-bd09-4cd65f1e71c3.jpg)
 
 
 ## hello 👋, i'm Leo 💻
