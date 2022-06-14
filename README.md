@@ -1,4 +1,4 @@
-![matematicas-una-ciencia](https://user-images.githubusercontent.com/42939877/173470040-42685a6a-442a-44e5-9d4f-11001ce40e73.jpg)
+![blog-website-banner-7](https://user-images.githubusercontent.com/42939877/173470157-14d1e945-fd75-4f4f-95d1-d963b9b6b3f5.jpg)
 
 
 
