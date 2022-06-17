@@ -4,16 +4,16 @@
 
 
 ## hello 👋, i'm Leo 💻
-Soy de Argentina y soy Machine Learning Engineer. Actualmente trabajando como ML Engineer usando prácticas MLOps y tecnologías Cloud AWS. 
- 
-Soy una persona curiosa en general. Además de la programación, me gusta la Electrónica, la Física (Mecánica Cuántica), la Matemática y la Psicoloía. También me gusta hacer actividad física, trekking y bici 🚴. 
+I'm from Argentina and I'm a Machine Learning Engineer. Currently working as an ML Engineer using MLOps and practical Cloud AWS technologies.
 
-Me tomo un rato todos los días (fuera del horario laboral habitual) para crear cosas que me entuiasmen. Actualmente estoy haciendo un proyecto donde junto dos de mis pasiones: MLOps con un modelo de ML aplicado a la Actividad Física, utilizando los datos de mi pulsera deportiva Garmin (Acá la referencia al repo en construccion: [Garmin_MLOps](https://github.com/Leonardo1133/Garmin_MLOps)).  
+I am a curious person in general. Besides programming, I like Electronics, Physics (Quantum Mechanics), Mathematics and Psychology. I also like to do physical activity, trekking and bicyclist bike.
+
+I take time every day (outside normal business hours) to create things that excite me. I am currently doing a project where I combine two of my passions: MLOps with an ML model applied to Physical Activity, using data from my Garmin sports bracelet (Here is the reference to the repository under construction: [Garmin_MLOps](https://github.com/Leonardo1133/Garmin_MLOps)).  
 
 ## Skills
 - SageMaker_Studio, Athena, PySpark, Lambda, S3, CodeCommit, EventBridge, CloudWatch, SSM_Parameter, SageMaker_Pipeline, etc.
-- En mi día a día uso tecnologías como: SQL, Python, Pandas, Numpy, SK-Learn, Git, Bash, Linux, Docker, etc.
-- Realice mi tesis de grado en Filtrado de imágenes con Machine Learning en matlab. Participé en Mercadolibre de un proyecto de Machine Learning para Prevención de Fraude.
+- In my day to day I use technologies such as: SQL, Python, Pandas, Numpy, SK-Learn, Git, Bash, Linux, Docker, etc.
+- I did my degree thesis on Image Filtering with Machine Learning in matlab. I participated in Mercadolibre in a Machine Learning project for Fraud Prevention.
 
 ## You can find me:
 - Linkedin: https://www.linkedin.com/in/leonardooscardavila/
