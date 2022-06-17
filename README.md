@@ -6,7 +6,7 @@
 ## hello 👋, i'm Leo 💻
 I'm from Argentina and I'm a Machine Learning Engineer. Currently working as an ML Engineer using MLOps and practical Cloud AWS technologies.
 
-I am a curious person in general. Besides programming, I like Electronics, Physics (Quantum Mechanics), Mathematics and Psychology. I also like to do physical activity, trekking and bicyclist bike.
+I'm a curious person in general. Besides programming, I like Electronics, Physics (Quantum Mechanics), Mathematics and Psychology. I also like to do physical activity, trekking and bicyclist bike.
 
 I take time every day (outside normal business hours) to create things that excite me. I am currently doing a project where I combine two of my passions: MLOps with an ML model applied to Physical Activity, using data from my Garmin sports bracelet (Here is the reference to the repository under construction: [Garmin_MLOps](https://github.com/Leonardo1133/Garmin_MLOps)).  
 
